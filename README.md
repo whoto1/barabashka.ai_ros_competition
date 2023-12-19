@@ -1,4 +1,4 @@
-# CJHTDYJDFYBZ
+# Соревнование
 # Запуск (в разных терминалах)
 ```
 ros2 launch robot_bringup autorace_2023.launch.py
