@@ -1,1 +1,5 @@
-# barabashka.ai_ros_competition
+# CJHTDYJDFYBZ
+# Запуск
+```
+jfghjfgh
+```
