@@ -1,0 +1,1 @@
+# barabashka.ai_ros_competition
